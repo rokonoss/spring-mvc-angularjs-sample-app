@@ -1,0 +1,16 @@
+---Spring Part---
+Spring Data REST
+Spring Data JPA
+Auth2
+Spring Security ACLs
+Jersey & JaxB
+
+[Java config, Jackson JSON Library, DDD & DTO, Repeated backend validation at service layer, Http Basic Authentication with CSRF, only accessible via HTTPS]
+[DDD: backend (Business, Service/dao, persistence layer, Controller/app layer]  Front End (View layer, Controller Layer, Service Layer)
+
+---Angular Part---
+BootStrap
+GWT
+GoogleMap
+
+[Controllers, Services, Yahoo PureCSS, lodash (functional programming library), requireJS, CSRF, front end validation, internationalization]
